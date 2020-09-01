@@ -1,2 +1,4 @@
 
 Este es mi texto inicial
+
+Aquí agregué una línea.
